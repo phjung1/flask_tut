@@ -1,6 +1,6 @@
 #! /bin/bash
 #
-comment="${*:-test}"
+comment="${a:-test}"
 
 
 git add *
